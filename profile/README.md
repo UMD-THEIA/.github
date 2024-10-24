@@ -1,4 +1,4 @@
-<h1><div align="center">SatDev THEIA GitHub</div></h1>
+<h1><div align="center">THEIA - UMD SatDev GitHub</div></h1>
 <hr>
 
 ![SatDev info](https://smallsats.umd.edu/files/2024/08/mainpage-graphic-960x1012.png)

@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to SatDev THEIA GitHub
+
+![SatDev info](https://smallsats.umd.edu/files/2024/08/mainpage-graphic-960x1012.png)
 
 <!--
 
